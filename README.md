@@ -8,16 +8,17 @@ J'aimerais concevoir une application pour m'aider à m'y retrouver dans ma cave 
 
 J'ai écrit quelques fonctionnalités :
 
-un utilisateur peut se connecter avec son mail et mot de passe.
-il/elle peut accéder à la page de sa cave, avec toutes les bières qui la compose et la quantité de chaque bière.
-il/elle peut cliquer sur une des bières pour voir ses caractéristiques :
-sa brasserie (ex: Heineken, Guinness, ...)
-son type (ex: Lagger, IPA, ...)
-sa couleur (ex: blonde, brune, blanche, ...)
-son degré d'alcool (ex: 5.4°, 6.2°, ...)
-le format du contenant (ex: bouteille 50cl, cannette 50cl, bouteille 33cl, ...)
-ses arômes (ex: légère, fruité, amère, ...)
-on pourrait même préciser sur cette page l'origine (ex: France, Belgique, ...) et l'adresse (ex: Londres, Angers, ...) de la brasserie.
+- un utilisateur peut se connecter avec son mail et mot de passe.
+-il/elle peut accéder à la page de sa cave, avec toutes les bières qui la compose et la quantité de chaque bière.
+- il/elle peut cliquer sur une des bières pour voir ses caractéristiques :
+- sa brasserie (ex: Heineken, Guinness, ...)
+- son type (ex: Lagger, IPA, ...)
+- sa couleur (ex: blonde, brune, blanche, ...)
+- son degré d'alcool (ex: 5.4°, 6.2°, ...)
+- le format du contenant (ex: bouteille 50cl, cannette 50cl, bouteille 33cl, ...)
+- ses arômes (ex: légère, fruité, amère, ...)
+- on pourrait même préciser sur cette page l'origine (ex: France, Belgique, ...) et l'adresse (ex: Londres, Angers, ...) de la brasserie.
+
 Voila c'est à peu près tout... Tu pourrais m'aider à construire un MCD digne de ce nom ? Et si on a le temps, on peut construire le MLD résultant ?
 
 Je paie ma tournée bien-sûr !
